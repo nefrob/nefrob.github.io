@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Title
+description: Description
+logo: /assets/img/circle.png
+show_downloads: true
