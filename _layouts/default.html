@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-176704055-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-176704055-1');
+    </script> -->
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <div class="home">
+            <a href="#Home">Top</a></li>
+        </div>
+
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <span class="br_small"></span>
+
+        {% if site.profile_pic %}
+          <img class="profile" src="{{site.profile_pic | relative_url}}" alt="Profile picture" />
+        {% endif %}
+
+        <span class="br_small"></span>
+        <p>Hi, I'm Robert!</p>
+        <p>I'm recently retired professional gymnast and software engineer. I've lived around the world, 
+            spending time in Australia, Switzerland, England and the US. I'm a big Star Wars fan, gamer and
+            movie buff who loves problem solving and getting hands on with technology.
+        </p>
+
+
+        <a href="assets/docs/resume.pdf" target="_blank">
+          <img class="icon" src="/assets/img/text_icon.png">&nbsp
+          Resume
+        </a> 
+        <span class="link_spacer"></span> 
+        
+        <!-- <a href="mailto:REDACTED" target="_blank">
+          <img class="icon" src="/assets/img/mail_icon.png">&nbsp
+          REDACTED
+        </a>
+        <span class="link_spacer"></span> -->
+        
+        <a href="https://www.linkedin.com/in/rob-neff" target="_blank">
+          <img class="icon" src="/assets/img/linkedin_icon.png">&nbsp
+          LinkedIn
+        </a>
+        <span class="link_spacer"></span>
+
+        <a href="https://github.com/nefrob" target="_blank">
+          <img class="icon" src="/assets/img/github_icon.png">&nbsp
+          GitHub
+        </a>
+        <span class="link_spacer"></span> 
+        
+        <a href="https://www.youtube.com/user/rneffstanford" target="_blank">
+          <img class="icon" src="/assets/img/youtube_icon.png">&nbsp
+          YouTube
+        </a>
+        <span class="link_spacer"></span>
+
+        <a href="https://www.instagram.com/rneff_1/" target="_blank">
+          <img class="icon" src="/assets/img/insta.png">&nbsp
+          Instagram
+        </a>
+        <span class="br_small"></span>
+      </header>
+      
+      <section>
+      {{ content }}
+      </section>
+
+      <!-- <footer> -->
+        <!-- Moved links to header -->
+      <!-- </footer> -->
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
