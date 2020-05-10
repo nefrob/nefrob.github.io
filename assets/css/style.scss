@@ -2,3 +2,56 @@
 ---
 
 @import "{{ site.theme }}";
+
+.wrapper {
+    width:80%;
+    max-width:1080px;
+}
+
+header {
+    width:30%;
+    float:left;
+    position:static;
+    -webkit-font-smoothing:subpixel-antialiased;
+}
+
+section {
+    width:70%;
+    float:right;
+    padding-bottom:50px;
+}
+
+footer {
+    width:30%;
+    float:left;
+    position:static;
+    bottom:50px;
+    -webkit-font-smoothing:subpixel-antialiased;
+}
+  
+a:hover, a:focus {
+    font-weight:normal;
+    text-decoration:underline;
+}
+
+.brsmall {
+    display:block;
+    margin-bottom:1em; 
+}
+
+.button {
+    background-color:#ececec;
+    border:none;
+    border-radius:25px;
+    color:black;
+    padding:15px;
+    text-align:center;
+    font-size:16px;
+    margin:0px 0px;
+    transition-duration:0.4s;
+    max-width:20%;
+}
+
+.button:hover, .button:focus {
+  background-color:#d8d8d8;
+}
