@@ -1,41 +1,112 @@
-### Site pending update, please visit http://rneff9.wixsite.com/projects for now. 
+<!-- <link rel="stylesheet" href="/assets/css/style.scss"> -->
 
-<!--
-## Welcome to GitHub Pages
+### Site pending update, please visit [http://rneff9.wixsite.com/projects](http://rneff9.wixsite.com/projects) for now. 
 
-You can use the [editor on GitHub](https://github.com/nefrob/nefrob.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Projects
 
-### Markdown
+<hr class="close">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img class="icon" align="right" width="75" height="75" src="/assets/img/circle.png">
 
-```markdown
-Syntax highlighted code block
+- **P1**  
+  Description
+  Source/link  
+  Date
 
-# Header 1
-## Header 2
-### Header 3
+___
 
-- Bulleted
-- List
+<img class="icon" align="right" width="75" height="75" src="/assets/img/circle.png">
 
-1. Numbered
-2. List
+- **P2**  
+  Description
+  Source/link  
+  Date
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<span class="brmed"></span>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Work Experience
 
-### Jekyll Themes
+<hr class="close"> 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nefrob/nefrob.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img class="icon" align="right" width="75" height="75" src="/assets/img/circle.png">
 
-### Support or Contact
+- **Course Assistant, Stanford University**  
+  CS 146: Introduction to Game Design and Development  
+  Sep 2018 - Dec 2018
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
--->
+___
+
+<img class="icon" align="right" width="75" height="75" src="/assets/img/circle.png">
+
+- **Software Engineer Intern, Niantic Inc.**  
+  Client-side engineer  
+  Jun 2018 - Dec 2018
+
+
+<span class="brmed"></span>
+
+# Education
+
+<hr class="close"> 
+
+<img class="icon" align="right" width="75" height="75" src="/assets/img/circle.png">
+
+- **Stanford University**  
+  Master of Science - MS, Computer Science  
+  2018-2019
+
+___
+
+<img class="icon" align="right" width="75" height="75" src="/assets/img/circle.png">
+
+- **Stanford University**  
+  Bachelor of Science - BS, Computer Science  
+  2014-2018
+
+
+<span class="brmed"></span>
+
+# Awards
+
+<hr class="close"> 
+
+- TODO: gym, stanford
+
+___
+
+- 
+
+
+<span class="brmed"></span>
+
+# Gymnastics 
+
+<hr class="close"> 
+
+<img class="icon" align="right" width="75" height="75" src="/assets/img/circle.png">
+
+- **National Team, USA Gymnastics**  
+  TODO: pics + video + link  
+  2014-2018
+
+___
+
+<img class="icon" align="right" width="75" height="75" src="/assets/img/circle.png">
+
+- **Stanford Men's Gymnastics**  
+  TODO:  pics + video + link  
+  2014-2018
+
+
+<!-- Leave Space at bottom  -->
+<span class="brlarge"></span>
+
+<!-- Description? 
+Computer: Java, C/C++,  C#, Python, Julia, HTML, JavaScript, Node.js, CSS; Adobe Photoshop, Illustrator; Microsoft suite; Built desktop computer
+Languages: Fluent in German, basic French
+Organization: Managed 20+ hours/week of sports training with academics since middle school
+Adaptability:  Attended eight schools and seven gymnastics training centers from grades K-12
+Travel:  Lived in four countries and traveled extensively throughout Australia/N. Zealand, Europe & USA
+Interests:  German literature, gymnastics, computer gaming, science fiction movies -->
