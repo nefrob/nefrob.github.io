@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+// Redefine base theme styling
+
 .wrapper {
     width:80%;
     max-width:1080px;
@@ -34,9 +36,34 @@ a:hover, a:focus {
     text-decoration:underline;
 }
 
+// New styling
+
+img.profile {
+    max-width:80%;
+}
+
+img.icon {
+    margin-top: -0.5em;
+}
+
+hr.close {
+    height:5px;
+    margin-top: -0.5em;
+}
+
 .brsmall {
     display:block;
     margin-bottom:1em; 
+}
+
+.brmed {
+    display:block;
+    margin-bottom:3em; 
+}
+
+.brlarge {
+    display:block;
+    margin-bottom:20em; 
 }
 
 .button {
