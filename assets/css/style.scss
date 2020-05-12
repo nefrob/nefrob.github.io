@@ -44,6 +44,19 @@ img.profile {
 
 img.icon {
     margin-top: -0.5em;
+    height:75px;
+}
+
+img.mini {
+    max-height:75px;
+    max-width:auto;
+    padding: 5px;
+    transition:transform 0.25s ease;
+}
+
+img.mini:hover {
+    -webkit-transform:scale(2.5);
+    transform:scale(2.5);
 }
 
 hr.close {
@@ -51,17 +64,17 @@ hr.close {
     margin-top: -0.5em;
 }
 
-.brsmall {
+.br_small {
     display:block;
     margin-bottom:1em; 
 }
 
-.brmed {
+.br_med {
     display:block;
     margin-bottom:3em; 
 }
 
-.brlarge {
+.br_large {
     display:block;
     margin-bottom:20em; 
 }
@@ -76,7 +89,7 @@ hr.close {
     font-size:16px;
     margin:0px 0px;
     transition-duration:0.4s;
-    max-width:20%;
+    max-width:100%;
 }
 
 .button:hover, .button:focus {
