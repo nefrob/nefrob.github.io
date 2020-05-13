@@ -4,12 +4,16 @@
 
 <hr class="close">
 
-<!-- <img class="side" align="right" src="/assets/img/circle.png">
-
-- **Password manager? Double ratchet alg, networking final proj? systems?**  
-  blockchain? bfs or page rank fast, sql project? machine learning? 194w games? 142 website? implement 355 item?  
-
-___ -->
+<!-- 
+  Future ideas:
+  Crypto: Password manager, double rachet alg, 355 implement protocol, blockchain?
+  Web: showoff simple website?
+  Systems: bfs, page rank parallel?
+  Networking: 244 final proj?
+  Databases: imdb proj?
+  Games: 194w ship game
+  ML: human protein atlas proj
+-->
 
 <img class="side" align="right" src="/assets/img/drt_processed.png">
 
@@ -196,7 +200,7 @@ ___
 - **CGA First Team All-America Scholar-Athlete**  
   2016, 2017, 2018
 
-- **CGA Second Team All-America Scholar-Athlete** 
+- **CGA Second Team All-America Scholar-Athlete**  
   2015
 
 - **CoSIDA Academic All-America Second Team (at-large)**   
@@ -233,8 +237,15 @@ ___
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/46rrIqqoCnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  <img class="enlarge" src="/assets/img/TODO:.png">
-  <img class="enlarge" src="/assets/img/TODO:.png">
+  <div style="max-width:80%;">
+    <img class="enlarge" src="/assets/img/usag/panams7.jpg">
+    <img class="enlarge" src="/assets/img/usag/panams4.jpg">
+    <img class="enlarge" src="/assets/img/usag/panams6.jpg">
+    <img class="enlarge" src="/assets/img/usag/panams3.jpg">
+    <img class="enlarge" src="/assets/img/usag/panams2.jpg">
+  </div>
+
+  Photos from USAG.
 
 ___
 
@@ -249,8 +260,14 @@ ___
 
   [2017-18 Roster Profile](https://gostanford.com/sports/mens-gymnastics/roster/robert-neff/12509)
   
-  <img class="enlarge" src="/assets/img/TODO:.png">
-  <img class="enlarge" src="/assets/img/TODO:.png">
+  <div style="max-width:80%;">
+    <img class="enlarge" src="/assets/img/stanford/1.png">
+    <img class="enlarge" src="/assets/img/stanford/2.jpg">
+    <img class="enlarge" src="/assets/img/stanford/team_old.jpg">
+    <img class="enlarge" src="/assets/img/stanford/hbar.jpg">
+  </div>
+
+  Photos from Stanford Athletics.
 
 <!-- Leave Space at bottom  -->
 <span class="br_large"></span>
