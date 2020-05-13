@@ -42,19 +42,25 @@ img.profile {
     max-width:80%;
 }
 
-img.icon {
-    margin-top: -0.5em;
+img.side {
+    margin-top:-0.5em;
     height:75px;
 }
 
-img.mini {
+img.icon {
+    margin-top:0em;
+    height:16px;
+    width:auto;
+}
+
+img.enlarge {
     max-height:75px;
     max-width:auto;
     padding: 5px;
     transition:transform 0.25s ease;
 }
 
-img.mini:hover {
+img.enlarge:hover {
     -webkit-transform:scale(2.5);
     transform:scale(2.5);
 }

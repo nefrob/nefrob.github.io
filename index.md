@@ -4,34 +4,14 @@
 
 <hr class="close">
 
-<img class="icon" align="right" src="/assets/img/circle.png">
+<!-- <img class="side" align="right" src="/assets/img/circle.png">
 
-- **Password manager?**  
-  Description
-  Source/link  
-  Date
+- **Password manager? Double ratchet alg, networking final proj? systems?**  
+  blockchain? bfs or page rank fast, sql project? machine learning? 194w games? 142 website? implement 355 item?  
 
-___
+___ -->
 
-<img class="icon" align="right" src="/assets/img/circle.png">
-
-- **Double ratchet alg?**  
-  Description
-  Source/link  
-  Date
-
-___
-
-<img class="icon" align="right" src="/assets/img/circle.png">
-
-- **Networking? Systems stuff?**  
-  Description
-  Source/link  
-  Date
-
-___
-
-<img class="icon" align="right" src="/assets/img/drt_processed.png">
+<img class="side" align="right" src="/assets/img/drt_processed.png">
 
 - **Offline Signature Verification**  
   Apr 2018  
@@ -45,7 +25,7 @@ ___
 
 ___
 
-<img class="icon" align="right" src="/assets/img/fracture.png">
+<img class="side" align="right" src="/assets/img/fracture.png">
 
 - **Voronoi Diagram Procedural Fracture**  
   Dec 2017  
@@ -61,7 +41,7 @@ ___
   <iframe width="560" height="315" src="https://www.youtube.com/embed/KHbrSTrsHwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ___
 
-<img class="icon" align="right" src="/assets/img/bird.png">
+<img class="side" align="right" src="/assets/img/bird.png">
 
 - **Boids Bird Flocking Simulation**  
   Oct 2017  
@@ -80,7 +60,7 @@ ___
 
 ___
 
-<img class="icon" align="right" src="/assets/img/dodgeball.png">
+<img class="side" align="right" src="/assets/img/dodgeball.png">
 
 - **Dodgeball 2020**  
   Nov 2017 - Dec 2017  
@@ -97,7 +77,7 @@ ___
 
 ___
 
-<img class="icon" align="right" src="/assets/img/spray_can.png">
+<img class="side" align="right" src="/assets/img/spray_can.png">
 
 - **Graffiti Run**  
   Mar 2017  
@@ -112,7 +92,7 @@ ___
 
 ___
 
-<img class="icon" align="right" src="/assets/img/grass.png">
+<img class="side" align="right" src="/assets/img/grass.png">
 
 - **Grass Field Rendering**  
   Aug 2016  
@@ -125,14 +105,14 @@ ___
   [Development Playlist](https://www.youtube.com/playlist?list=PLbCCTxDYG7TA45nyIgtKwosgFFXQ99m8z) | 
   [Project Write-up](https://rneff9.wixsite.com/projects/project)
 
-  <img class="mini" src="/assets/img/billboards.png">
-  <img class="mini" src="/assets/img/shadowmap.png">
-  <img class="mini" src="/assets/img/day.png">
-  <img class="mini" src="/assets/img/sunset.png">
+  <img class="enlarge" src="/assets/img/billboards.png">
+  <img class="enlarge" src="/assets/img/shadowmap.png">
+  <img class="enlarge" src="/assets/img/day.png">
+  <img class="enlarge" src="/assets/img/sunset.png">
 
 ___
 
-<img class="icon" align="right" src="/assets/img/eye.png">
+<img class="side" align="right" src="/assets/img/eye.png">
 
 - **Illusions**  
   Nov 2016  
@@ -141,8 +121,8 @@ ___
   Some fun illusion projects made for a psychology class using Python and OpenGL. The first, "Random Dot Stereogram", takes an image and creates a color-shifted plot to simulate a 3D image (if wearing red-blue glasses). The second, "Looming Luminance Square", simulates change in depth and illusory motion, without changing the focus or any actual motion.
   </div>
 
-  <img class="mini" src="/assets/img/batman.png">
-  <img class="mini" src="/assets/img/3d.png">
+  <img class="enlarge" src="/assets/img/batman.png">
+  <img class="enlarge" src="/assets/img/3d.png">
 
   <iframe width="392" height="220" src="https://www.youtube.com/embed/jmHdH4CEVaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -153,7 +133,7 @@ ___
 
 <hr class="close"> 
 
-<img class="icon" align="right" src="/assets/img/stanford_logo.png">
+<img class="side" align="right" src="/assets/img/stanford_logo.png">
 
 - **Course Assistant, Stanford University**  
   CS 146: Introduction to Game Design and Development  
@@ -161,11 +141,11 @@ ___
 
 ___
 
-<img class="icon" align="right" src="/assets/img/niantic_logo.png">
+<img class="side" align="right" src="/assets/img/niantic_logo.png">
 
 - **Software Engineer Intern, Niantic Inc.**  
   Client-side engineer (Unity/C#) for Pokémon Go and Ingress Prime  
-  Jun 2018 - Dec 2018
+  Jun 2018 - Sep 2018
 
 
 <span class="br_med"></span>
@@ -174,7 +154,7 @@ ___
 
 <hr class="close"> 
 
-<img class="icon" align="right" src="/assets/img/stanford_logo.png">
+<img class="side" align="right" src="/assets/img/stanford_logo.png">
 
 - **Stanford University**  
   Master of Science - MS, Computer Science  
@@ -186,7 +166,7 @@ ___
 
 ___
 
-<img class="icon" align="right" src="/assets/img/stanford_logo.png">
+<img class="side" align="right" src="/assets/img/stanford_logo.png">
 
 - **Stanford University**  
   Bachelor of Science - BS, Computer Science  
@@ -203,7 +183,7 @@ ___
 
 <hr class="close"> 
 
-<img class="icon" align="right" src="/assets/img/ncaa.png">
+<img class="side" align="right" src="/assets/img/ncaa.png">
 
 - **NCAA Post Graduate Scholarship Recipient**  
   2018
@@ -211,12 +191,7 @@ ___
 - **Nissen-Emery Award Finalist, NCAA Men's Gymnastics**  
   2018
 
-- **NCAA High Bar Champion**  
-  2017, 2018
-
-- **Six-time NCAA All-American**
-
-<img class="icon" align="right" src="/assets/img/cga.png"> 
+<img class="side" align="right" src="/assets/img/cga.png"> 
 
 - **CGA First Team All-America Scholar-Athlete**  
   2016, 2017, 2018
@@ -224,14 +199,18 @@ ___
 - **CGA Second Team All-America Scholar-Athlete** 
   2015
 
-<img class="icon" align="right" src="/assets/img/mpsf.png"> 
+- **CoSIDA Academic All-America Second Team (at-large)**   
+  2018 
+
+<img class="side" align="right" src="/assets/img/mpsf.png"> 
 
 - **MPSF All-Academic Scholar-Athlete**  
-  2016, 2017, 2018  
+  2016, 2017, 2018 
 
-<img class="icon" align="right" src="/assets/img/cosida.png">
+<!-- 
+<img class="side" style="height:60px; margin-top:0em" align="right" src="/assets/img/german.gif">  -->
 
-- **CoSIDA Academic All-America Second Team (at-large)**  
+- **Delta Phi Alpha National German Honor Society Member**  
   2018 
 
 
@@ -241,32 +220,39 @@ ___
 
 <hr class="close"> 
 
-<img class="icon" align="right" src="/assets/img/usag_logo.png">
+<img class="side" align="right" src="/assets/img/usag_logo.png">
 
-- **National Team, USA Gymnastics**  
-  TODO: pics + video + link  
-  https://usagym.org/pages/athletes/athleteListDetail.html?id=91339  
-  https://www.youtube.com/watch?v=46rrIqqoCnc  pan ams  
-  2014-2018
+- **USA Gymnastics**  
+
+  <div style="max-width:80%;">
+  I've been a member of the USA Junior and Senior National teams, and currently train at the Olympic & Paralympic Training Center (OPTC) in Colorado Springs. Most recently I represented Team USA at the World Univeristy Games in Taiwan (2017), Calgary International Cup in Canada (2019) and Pan American Games in Lima (2019).
+  </div>  
+
+  [USAG Profile](https://usagym.org/pages/athletes/athleteListDetail.html?id=91339) |
+  [YouTube](https://www.youtube.com/user/RobertNeffGym/featured)
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/46rrIqqoCnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <img class="enlarge" src="/assets/img/TODO:.png">
+  <img class="enlarge" src="/assets/img/TODO:.png">
 
 ___
 
-<img class="icon" align="right" src="/assets/img/stanford_logo.png">
+<img class="side" align="right" src="/assets/img/stanford_logo.png">
 
-- **Stanford Men's Gymnastics**  
-  TODO:  pics + video + link  
-  2014-2018
+- **Stanford Men's Gymnastics**   
+  2014-2018  
 
+  <div style="max-width:80%;">
+  I competed on Stanford's Div. I Men's Gymnastics Team as an undergraduate, doing all six events (all-around). During my time on the team we brought home two 2nd place finishes at NCAA Championships, I was NCAA High Bar Champion in 2017 and 2018, and a six-time NCAA All-American.
+  </div>
+
+  [2017-18 Roster Profile](https://gostanford.com/sports/mens-gymnastics/roster/robert-neff/12509)
+  
+  <img class="enlarge" src="/assets/img/TODO:.png">
+  <img class="enlarge" src="/assets/img/TODO:.png">
 
 <!-- Leave Space at bottom  -->
 <span class="br_large"></span>
 
 Old page: [http://rneff9.wixsite.com/projects](http://rneff9.wixsite.com/projects). 
-
-<!-- Description? 
-Computer: Java, C/C++,  C#, Python, Julia, HTML, JavaScript, Node.js, CSS; Adobe Photoshop, Illustrator; Microsoft suite; Built desktop computer
-Languages: Fluent in German, basic French
-Organization: Managed 20+ hours/week of sports training with academics since middle school
-Adaptability:  Attended eight schools and seven gymnastics training centers from grades K-12
-Travel:  Lived in four countries and traveled extensively throughout Australia/N. Zealand, Europe & USA
-Interests:  German literature, gymnastics, computer gaming, science fiction movies -->
