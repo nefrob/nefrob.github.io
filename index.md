@@ -6,13 +6,13 @@
 
 <!-- 
   Future ideas:
-  Crypto: Password manager, double rachet alg, 355 implement protocol, blockchain?
-  Web: showoff simple website?
-  Systems: bfs, page rank parallel?
-  Networking: 244 final proj?
-  Databases: imdb proj?
-  Games: 194w ship game
-  ML: human protein atlas proj
+  Crypto: make password manager, double rachet alg complete, 355 implement protocol, blockchain something?
+  Web: showoff simple website
+  Systems: add bfs, page rank parallel
+  Networking: add 244 final proj
+  Databases: add imdb proj
+  Games: add 194w ship game
+  ML: add human protein atlas proj
 -->
 
 <img class="side" align="right" src="/assets/img/drt_processed.png">
