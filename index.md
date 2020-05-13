@@ -42,7 +42,7 @@ ___
   [Demo Video]() |
   [Paper](assets/docs/348c_paper.pdf)  
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/KHbrSTrsHwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/KHbrSTrsHwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ___
 
 <img class="side" align="right" src="/assets/img/bird.png">
@@ -57,9 +57,9 @@ ___
   <span class="br_small"></span>
 
   <div>
-    <iframe  width="300" height="165" src="https://www.youtube.com/embed/eGI3EmDdLDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe  style="max-width:100%;" width="300" height="165" src="https://www.youtube.com/embed/eGI3EmDdLDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    <iframe  width="300" height="165" src="https://www.youtube.com/embed/fKotSBdbnb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe  style="max-width:100%;" width="300" height="165" src="https://www.youtube.com/embed/fKotSBdbnb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
 ___
@@ -77,7 +77,7 @@ ___
   [Trailer](https://www.youtube.com/watch?v=2-k-1tsc0lM&feature=emb_logo) |
   [Download](https://stanfordstudentgames.itch.io/dodgeball-2020)  
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2-k-1tsc0lM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/2-k-1tsc0lM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
   [Gameplay](https://www.youtube.com/watch?v=2XY_Qk79e_o&feature=youtu.be)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2XY_Qk79e_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/2XY_Qk79e_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ___
 
@@ -128,7 +128,7 @@ ___
   <img class="enlarge" src="/assets/img/batman.png">
   <img class="enlarge" src="/assets/img/3d.png">
 
-  <iframe width="392" height="220" src="https://www.youtube.com/embed/jmHdH4CEVaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe style="max-width:100%;" width="392" height="220" src="https://www.youtube.com/embed/jmHdH4CEVaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <span class="br_med"></span>
@@ -235,7 +235,7 @@ ___
   [USAG Profile](https://usagym.org/pages/athletes/athleteListDetail.html?id=91339) |
   [YouTube](https://www.youtube.com/user/RobertNeffGym/featured)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/46rrIqqoCnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/46rrIqqoCnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   <div style="max-width:80%;">
     <img class="enlarge" src="/assets/img/usag/panams7.jpg">
