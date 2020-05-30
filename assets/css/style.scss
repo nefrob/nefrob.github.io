@@ -44,7 +44,10 @@ img.profile {
 
 img.side {
     margin-top:-0.5em;
-    height:75px;
+    height:auto;
+    max-height:75px;
+    width:auto;
+    max-width:75px;
 }
 
 img.icon {

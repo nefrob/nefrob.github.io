@@ -6,14 +6,29 @@
 
 <!-- 
   Future ideas:
-  Crypto: make password manager, double rachet alg complete, 355 implement protocol, blockchain something?
+  Crypto: make password manager, 355 implement protocol, blockchain something?
   Web: showoff simple website
   Systems: add bfs, page rank parallel
   Networking: add 244 final proj
   Databases: add imdb proj
   Games: add 194w ship game
   ML: add human protein atlas proj
+
+  target="_blank" to links to make open in new tab
 -->
+
+<img class="side" align="right" src="/assets/img/key.png">
+
+- **Double Ratchet Algorithm**  
+  May 2020   
+
+  <div style="max-width:80%;">
+  The DRA allows for two parties to exchange encrypted messages from initial shared secrets (ex. from key agreement protocol like X3HD). Makes use of cryptograhic concepts including: KDF-chains, Diffie-Hellman key exchange and authenticated encryption. Both the base and header encryption variant of the algorithm are present. The project was implemented in Python.
+  </div>
+
+  [GitHub Source](https://github.com/nefrob/double-ratchet-alg)
+
+___
 
 <img class="side" align="right" src="/assets/img/drt_processed.png">
 
