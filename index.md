@@ -23,7 +23,7 @@
   May 2020   
 
   <div style="max-width:80%;">
-  The DRA allows for two parties to exchange encrypted messages from initial shared secrets (ex. from key agreement protocol like X3HD). Makes use of cryptograhic concepts including: KDF-chains, Diffie-Hellman key exchange and authenticated encryption. Both the base and header encryption variant of the algorithm are present. The project was implemented in Python.
+  The DRA allows for two parties to exchange encrypted messages from initial shared secrets (ex. from key agreement protocol like X3HD). Makes use of cryptographic concepts including: KDF-chains, Diffie-Hellman key exchange and authenticated encryption. Both the base and header encryption variant of the algorithm are present. The project was implemented in Python.
   </div>
 
   [GitHub Source](https://github.com/nefrob/double-ratchet-alg)
