@@ -261,7 +261,7 @@ ___ -->
     Full stack ngineer (Django and React)  
     Nov 2021 - Present
 
-<img class="side" align="right" src="/assets/img/cc_logo.png">
+<img class="side" align="right" src="/assets/img/cc_logo.jpeg">
 
 -   **Student Mentor, Curious Cardinals**  
     Computer science project mentor/tutor for K-12 students  
@@ -269,7 +269,7 @@ ___ -->
 
 ---
 
-<img class="side" align="right" src="/assets/img/stanford_logo.png">
+<img class="side" align="right" src="/assets/img/stanford_logo.jpeg">
 
 -   **Course Assistant, Stanford University**  
     CS 146: Introduction to Game Design and Development  
@@ -277,7 +277,7 @@ ___ -->
 
 ---
 
-<img class="side" align="right" src="/assets/img/niantic_logo.png">
+<img class="side" align="right" src="/assets/img/niantic_logo.jpeg">
 
 -   **Software Engineer Intern, Niantic Inc.**  
     Client-side engineer (Unity/C#) for Pokémon Go and Ingress Prime  
@@ -294,7 +294,7 @@ ___ -->
   <hr class="close">
 </summary>
 
-<img class="side" align="right" src="/assets/img/stanford_logo.png">
+<img class="side" align="right" src="/assets/img/stanford_logo.jpeg">
 
 -   **Stanford University**  
     Master of Science - MS, Computer Science  
@@ -306,7 +306,7 @@ ___ -->
 
 ---
 
-<img class="side" align="right" src="/assets/img/stanford_logo.png">
+<img class="side" align="right" src="/assets/img/stanford_logo.jpeg">
 
 -   **Stanford University**  
     Bachelor of Science - BS, Computer Science  
@@ -368,7 +368,7 @@ ___ -->
   <hr class="close">
 </summary>
 
-<img class="side" align="right" src="/assets/img/usag_logo.png">
+<img class="side" align="right" src="/assets/img/usag_logo.jpeg">
 
 -   **USA Gymnastics**
     2011-2022
@@ -397,7 +397,7 @@ ___ -->
 
 ---
 
-<img class="side" align="right" src="/assets/img/stanford_logo.png">
+<img class="side" align="right" src="/assets/img/stanford_logo.jpeg">
 
 -   **Stanford Men's Gymnastics**  
     2014-2018
