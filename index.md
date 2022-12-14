@@ -261,6 +261,8 @@ ___ -->
     Full stack engineer (Django and React)  
     Nov 2021 - Present
 
+---
+
 <img class="side" align="right" src="/assets/img/cc_logo.jpeg">
 
 -   **Student Mentor, Curious Cardinals**  
