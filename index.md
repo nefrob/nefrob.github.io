@@ -255,11 +255,23 @@ ___ -->
   <hr class="close">
 </summary>
 
+<img class="side" align="right" src="/assets/img/peregrine_logo.jpeg">
+
+-   **Software Engineer, Peregrine**  
+    Interfaces  
+    Feb 2023 - Present
+
+---
+
 <img class="side" align="right" src="/assets/img/tilt_logo.jpeg">
+
+-   **Senior Software Engineer, Tilt**  
+    Full stack engineer (Django and React)  
+    Jan 2023 - Feb 2024
 
 -   **Software Engineer, Tilt**  
     Full stack engineer (Django and React)  
-    Nov 2021 - Present
+    Nov 2021 - Dec 2022
 
 ---
 
